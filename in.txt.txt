@@ -1,0 +1,9 @@
+read a
+
+read b
+
+sum := a + b
+
+write sum
+
+write sum / 2
